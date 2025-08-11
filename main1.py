@@ -208,6 +208,4 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.info(
     "🔍 Herramienta de análisis de datos energéticos\n\n"
-    "Creada con Streamlit | Python"
-)
-
+    "Creada con Streamlit | Python")
